@@ -1,302 +1,308 @@
-# Normativa de la facción ilegal
+# Normativa ilegal · SIEGA Community
 
-**SIEGA Community · Versión 1.2 · 12 de noviembre de 2026**
+El desconocimiento de la normativa no exime de su cumplimiento. Este documento se mantiene en revisión para recoger la evolución del servidor. La administración interpreta las situaciones no contempladas y comunica las modificaciones de las reglas. Ningún vacío autoriza a obtener una ventaja injusta.
 
-> El desconocimiento de esta normativa no exime de su cumplimiento. Este documento está en continuo desarrollo. Las situaciones no recogidas se resolverán por Administración y las personas responsables de facción, atendiendo al contexto y a los precedentes de SIEGA Community. Las fichas publicadas de cada actividad concretan esta normativa y no pueden contradecirla.
+## 1. Principios del rol
 
-Esta normativa es pública y regula la conducta, el acceso a las actividades, la coordinación policial y los límites de las escenas ilegales. Los requisitos, herramientas, botín y economía de cada actividad se detallan en sus fichas. Una actividad sin ficha publicada no está habilitada.
+### 1.1 Personaje y jugador
 
-## Índice
+Las decisiones del personaje deben tener una motivación dentro del rol. La información obtenida fuera del juego no puede utilizarse como conocimiento del personaje. Una disputa IC no justifica ataques personales OOC.
 
-1. [Ámbito y principios](#1-ámbito-y-principios)
-2. [Organizaciones y acceso](#2-organizaciones-y-acceso)
-3. [Policía, solicitudes y avisos](#3-policía-solicitudes-y-avisos)
-4. [Clases y reglas de cada actividad](#4-clases-y-reglas-de-cada-actividad)
-5. [Cupos, registro y cómputo](#5-cupos-registro-y-cómputo)
-6. [Armas, vehículos y objetos](#6-armas-vehículos-y-objetos)
-7. [Rehenes, extorsiones y personas abatidas](#7-rehenes-extorsiones-y-personas-abatidas)
-8. [Vehículos durante escenas agresivas](#8-vehículos-durante-escenas-agresivas)
-9. [Vestimenta, accesorios y ventajas](#9-vestimenta-accesorios-y-ventajas)
-10. [Negocios, drogas y actividades públicas](#10-negocios-drogas-y-actividades-públicas)
-11. [Conflictos entre organizaciones](#11-conflictos-entre-organizaciones)
-12. [Administración y aplicación](#12-administración-y-aplicación)
+### 1.2 Continuidad del rol
 
-## 1. Ámbito y principios
+Un rol iniciado debe continuarse. No se interrumpe para discutir por /msg, pedir explicaciones por canales OOC o debatir una infracción. Termina la escena y presenta un ticket de reporte con las pruebas disponibles.
 
-### 1.1 Juego de rol
+### 1.3 Comunicaciones
 
-Las acciones ilegales se desarrollan dentro del rol y respetan la información que el personaje conoce. La información obtenida fuera de personaje no permite descubrir objetivos, anticipar una actividad ni localizar a sus participantes.
+Durante el rol IC es obligatorio permanecer en el canal correspondiente de Discord de ilegales con micrófono y audio silenciados. No se transmitirá información de la escena por Discord ni por mensajes privados externos.
 
-### 1.2 Continuidad de las escenas
+### 1.4 Abuso de mecánicas
 
-Una escena iniciada debe continuar por los medios IC disponibles. No se utiliza `/msg`, `/pdtid` ni otro canal OOC para insultar, interrumpir, forzar una negociación o discutir una escena activa. Si existe un problema, se termina la escena cuando sea posible y después se presenta por el canal de soporte.
+Se prohíben bugs, ghost-pick, speed-boost, animaciones o prendas que aporten ventaja, así como el uso de la tecla Q en roles agresivos. Una interacción disponible no convierte un lugar en un robo autorizado: deben respetarse las actividades y condiciones publicadas.
 
-Durante el rol IC, las personas participantes deben permanecer en permamute en el canal de ilegales de Discord. El canal no se usa para transmitir información IC.
+### 1.5 Reinicios
 
-### 1.3 Juego limpio
+No se puede iniciar ni realizar ningún acto delictivo durante los 25 minutos anteriores y los 25 minutos posteriores a cada reinicio del servidor.
 
-Está prohibido obtener ventaja mediante bugs, macros, software externo, animaciones, prendas, accesorios o configuraciones que alteren injustamente el combate, la visibilidad, la resistencia o la movilidad. Los errores se comunican a Administración y no se explotan.
+### 1.6 Grabaciones
 
-No se puede usar la tecla Q para obtener ventaja en un rol agresivo. Tampoco se puede iniciar un robo sobre una persona que esté usando un menú de interacción ni usar un menú para evitar una escena.
+Los roles ilegales deben grabarse y conservarse durante al menos 48 horas. Si hay un reporte abierto, conserva las pruebas hasta que se resuelva.
 
-### 1.4 Reinicios
+### 1.7 Eventos civiles
 
-No se puede iniciar ni mantener un acto delictivo durante los 25 minutos anteriores ni los 25 minutos posteriores a cada reinicio del servidor. El reinicio no puede usarse para evitar una detención, el resultado de una escena o una consecuencia ya iniciada.
+No se permiten altercados delictivos en eventos civiles organizados, salvo autorización previa de administración. El evento no se utiliza para forzar un conflicto ajeno a su finalidad.
 
-### 1.5 Grabaciones
+### 1.8 Corrupción
 
-Las personas que participen en un rol ilegal deben conservar una grabación durante un mínimo de 2 días. Se facilitará por el procedimiento de revisión de SIEGA Community cuando Administración la solicite.
+Cualquier trama de corrupción requiere autorización previa del staff mediante ticket. La autorización debe corresponder al personaje y a la trama que se pretende desarrollar.
 
-### 1.6 Corrupción y eventos públicos
-
-La corrupción requiere autorización previa de Administración mediante ticket. Los eventos civiles y actividades públicas no se convierten en altercados sin autorización de Administración.
-
-### 1.7 Coacción económica
-
-No se puede obligar a una persona a retirar dinero del banco. Tampoco se puede utilizar un menú de interacción para exigir, transferir o sustraer dinero.
-
-### 1.8 Dinero de las actividades ilegales
-
-Todo pago monetario de una actividad ilegal y toda compra o venta monetaria a sus NPC se realiza mediante el objeto de inventario **Dinero negro** (`black_money`). No se paga en efectivo ni se deposita en la cuenta bancaria. Esta regla también se aplica a encargos, recompensas, compradores y vendedores del sistema ilegal; los trueques sin dinero mantienen los objetos acordados en su ficha.
-
-## 2. Organizaciones y acceso
+## 2. Organizaciones e identidad
 
 ### 2.1 Civil ilegal
 
-El civil ilegal puede participar en actividades de las clases E y D. No puede superar el límite de tres participantes civiles en una actividad, salvo que la ficha de esa actividad establezca un máximo inferior. No puede acceder a actividades C o superiores.
+Los civiles ilegales pueden realizar actividades de clase E y D. Deben respetar el aforo de cada actividad; no existe un permiso general para superar el límite reuniendo varios grupos.
 
 ### 2.2 PDB
 
-La PDB puede acceder hasta clase C. No puede participar en clase B, tampoco como apoyo contratado por una organización con mayor acceso.
+Un Proyecto de Banda tiene entre 3 y 6 integrantes. Su acceso llega hasta la clase C. No existe excepción para Ammu-Nation ni una categoría de PDB avanzada con más permisos de robo.
 
-### 2.3 Bandas
+### 2.3 Banda de nivel 1
 
-El alcance máximo de cada nivel es:
+Una banda N1 tiene entre 5 y 10 integrantes y puede acceder hasta la clase B, conforme a sus cupos y a las condiciones del robo.
 
-1. **Banda N1:** hasta clase B.
-2. **Banda N2:** hasta clase A.
-3. **Banda N3:** hasta clase S. Puede realizar como máximo una operación S+ al mes.
+### 2.4 Bandas de nivel 2 y 3
 
-El nivel no concede automáticamente armas, equipo ni acceso a una actividad concreta. Se deben cumplir también los requisitos de la ficha y las reglas de armas de esta normativa.
+La banda N2 accede hasta clase A. La banda N3 puede acceder a S y S+ cuando la actividad tenga una ficha aprobada. El rango no habilita actividades pendientes. Los tamaños de plantilla superiores se comunicarán al cerrar la estructura.
 
-### 2.4 Mafias
+### 2.5 Altas y bajas
 
-Las mafias facilitan contactos, encargos y suministro mediante rol. Su presencia no aumenta el aforo de un robo, no sustituye a sus participantes y no permite eludir el límite de clase de otra organización.
+Los integrantes oficiales deben registrarse por el canal de Discord correspondiente antes de actuar como miembros de la organización. Las bandas deben conservar su identidad y su lore.
 
-### 2.5 Miembros, salidas y camellos
+### 2.6 Cambio de banda
 
-Las altas y bajas de miembros se registran en el canal de Discord correspondiente. Cada organización mantiene su identidad e historia.
+Para incorporarse a otra banda deben transcurrir 48 horas desde la salida, con una transición coherente dentro del rol. La salida puede tener consecuencias IC; no implica por sí sola un CK automático.
 
-Quien deje una banda debe esperar 48 horas antes de incorporarse a otra y representar su salida mediante rol IC. El CK no es automático por abandonar o cambiar de organización; solo se aplica conforme a los supuestos de la normativa general.
+### 2.7 Camellos
 
-Los camellos trabajan para una sola banda, reciben encargos y pueden participar en actividades hasta clase D. No participan en robos ni se les asigna un rol adicional de Discord. Las relaciones con otras bandas se resuelven mediante rol.
+Son colaboradores externos que reciben encargos, no integrantes de la banda. Las PDB no tienen camellos; los cupos son 3 en N1, 6 en N2 y 9 en N3. Cada camello trabaja para una banda dentro del rol y mantiene el límite de civil: clases E y D.
 
-## 3. Policía, solicitudes y avisos
+### 2.8 Límite de colaboración
 
-### 3.1 Mínimos policiales
+Los camellos no participan como refuerzo en los robos de la banda. No se les asigna un subrol de Discord ni se les exige registrar actividades E o D. Las consecuencias de trabajar para otra organización se desarrollan IC, sin sanciones de personaje automáticas.
 
-Los mínimos de cada ficha se cuentan por agentes de servicio. Si no se alcanza el mínimo, la actividad queda bloqueada. Cumplirlo no significa que el grupo tenga que esperar a que la policía llegue, salvo que la ficha lo indique.
+### 2.9 Mafias y proyectos de mafia
 
-### 3.2 Solicitudes de robos
+Las mafias cumplen una función de organización, suministro y generación de rol. No se utilizan como refuerzo para ampliar el aforo de un robo. Su funcionamiento se desarrolla en el manual de PDM y mafias.
 
-Las actividades E y D no requieren solicitud por `/robos`. Los robos C o superiores deben solicitarse y ser aceptados por la policía antes de que el grupo se desplace al lugar o comience la actividad.
+### 2.10 Progresión
 
-La aceptación por `/robos` abre la coordinación policial. No sustituye al `/entorno`, no autoriza a exceder aforos y no concede información IC que los personajes no hayan recibido por medios de rol.
+Los ascensos dependen de la trayectoria y del desarrollo de la organización dentro del rol. No existe ascenso automático por puntos, por número de robos o por cumplir un plazo público.
 
-### 3.3 `/entorno` y avisos automáticos
+## 3. Solicitud y avisos
 
-El `/entorno` comunica a la policía la información observable de la escena, como el número y aspecto de las personas y el vehículo utilizado. Se envía en el momento fijado por la ficha.
+### 3.1 Disponibilidad policial
 
-Un aviso automático no sustituye al `/entorno` cuando este es obligatorio. Las excepciones aprobadas en esta versión son tumbas, cajeros y parquímetros. Para ruedas se envía antes de retirar la primera; para venta de drogas y madera se envía al comenzar la actividad; para tiendas y robos C o superiores se envía antes de iniciar el robo.
+El mínimo policial se refiere a policías de servicio necesarios para habilitar la actividad. No equivale al número de agentes que deben acudir. Si no se cumple el mínimo, no puede realizarse la actividad.
 
-## 4. Clases y reglas de cada actividad
+### 3.2 /robos
 
-### 4.1 Clase E: encargos y actividades breves
+Los robos de clase C o superior se solicitan mediante /robos. Seleccionar una actividad disponible abre el chat con la policía para informar de participantes, vehículos y condiciones. La aceptación debe recibirse antes de acudir a ejecutar el robo o iniciarlo.
 
-La clase E reúne actividades rápidas y de bajo alcance. No requiere solicitud por `/robos`.
+### 3.3 /pid
 
-1. **Favores de NPC:** sin mínimo policial. El encargo determina si corresponde `/entorno`; no es obligatorio de forma general.
-2. **Venta de droga a NPC:** mínimo 1 policía de servicio. Se genera aviso automático al iniciar el primer intento de venta de la sesión. Se envía un único `/entorno` al comenzar la sesión, indicando personas y vehículo si lo hay; no se envía uno por transacción.
-3. **Recogida de madera de palés:** mínimo 1 policía. Se genera aviso automático al robar un palé y se envía `/entorno` antes de empezar.
-4. **Robo de ruedas:** mínimo 1 policía. No genera aviso automático. Se envía `/entorno` antes de retirar la primera rueda de cada vehículo.
+No es obligatorio usar /pid antes de un robo. La solicitud y coordinación para los robos sujetos a autorización se realiza por /robos.
 
-### 4.2 Clase D: delitos locales
+### 3.4 /entorno
 
-La clase D no requiere solicitud por `/robos`. Cada actividad exige el mínimo policial indicado, y queda bloqueada si no se alcanza.
+La solicitud por /robos no sustituye al /entorno. En los robos C y superiores ya definidos es obligatorio describir la escena, las personas y los vehículos que puedan percibirse. Se envía preferentemente antes de comenzar; Fleeca, joyería, Ammu-Nation y los bancos A lo requieren antes del inicio.
 
-1. **Tumbas:** mínimo 1 policía. Aviso automático al producirse el robo. `/entorno` no obligatorio. Se puede abandonar el lugar al terminar.
-2. **Cajeros automáticos:** mínimo 1 policía. Aviso automático al empezar a manipular el cajero. `/entorno` no obligatorio. Se puede abandonar el lugar al terminar.
-3. **Parquímetros:** mínimo 1 policía. Aviso automático al robarlo. `/entorno` no obligatorio. Se puede abandonar el lugar al terminar.
-4. **Robo de importación:** mínimo 1 policía de servicio. El contrato se acepta mediante el contacto correspondiente; no se solicita por `/robos`. Al salir conduciendo el vehículo objetivo se envía un aviso automático a la policía y comienza el localizador, que dura 5 minutos. No hay negociación ni obligación de esperar a la policía: el objetivo es entregar el vehículo dentro del tiempo del contrato. La ficha técnica concreta los fallos y la entrega.
-5. **Tiendas:** 24/7, LTD, licorerías, peluquerías, tatuajes, librerías y tiendas de ropa siguen el mismo marco. LTD se considera parte del grupo 24/7 a efectos de clasificación y cupo. Mínimo 2 policías; máximo 2 personas robando; sin rehenes, apoyo exterior, conductor dedicado, bloqueos, tiroteos ni negociación. Cada establecimiento emite su aviso y se envía `/entorno` antes de empezar, indicando personas y vehículo. El tendero puede representarse dentro del rol, pero no se toma como rehén ni se negocia por él. Las registradoras y la caja fuerte opcional forman parte de la misma actividad. Si la policía llega, puede intervenir. Si no llega, el grupo puede marcharse cuando hayan pasado 5 minutos desde que terminó el robo.
-6. **Robo de casas:** clase D. En el primer nivel se exige un mínimo de 1 policía. Los requisitos de los niveles superiores, el aviso, el `/entorno`, los límites y el momento de salida dependen de la ficha de cada nivel. No se deben inferir ni inventar requisitos que no estén publicados.
+### 3.5 Avisos automáticos
 
-### 4.3 Clase C: robos coordinados
+Un aviso automático no elimina la obligación manual cuando la ficha exige ambos. Drogas, madera y tiendas requieren además /entorno. Cajeros, parquímetros y tumbas utilizan aviso automático sin obligación de aviso manual. Importación avisa al salir con el coche.
 
-Para iniciar un robo C se necesita aceptación previa por `/robos`, cumplir el mínimo policial y enviar `/entorno` antes de empezar. Tras completar el objetivo, el grupo permanece en la escena hasta que llegue la policía. Si hay rehenes, se negocia la salida; sin rehenes, la policía puede intervenir.
+### 3.6 Ruedas y favores
 
-1. **Desguace:** mínimo 2 policías; máximo 2 personas robando; máximo 3 participantes en total; máximo 2 rehenes.
-2. **Pawnshop / tienda de empeño:** mínimo 3 policías; máximo 3 personas robando; máximo 4 participantes en total; máximo 2 rehenes. El dependiente representado en el rol cuenta dentro del máximo si se utiliza como rehén.
+En ruedas se envía /entorno antes de empezar a retirar la primera rueda; no existe aviso automático. Los favores de NPC no exigen mínimo policial ni /entorno obligatorio.
 
-El aforo total incluye a quien conduce, vigila o presta apoyo dentro o fuera del lugar.
+### 3.7 Descripción honesta
 
-### 4.4 Clase B: robos de alto riesgo
+El /entorno debe describir lo que un testigo podría observar, incluyendo personas y vehículo si existe. No se utiliza para ocultar participantes o presentar una situación falsa que favorezca al grupo.
 
-Se necesita aceptación previa por `/robos`, cumplir el mínimo policial y enviar `/entorno` antes de empezar. Al terminar el objetivo, el grupo permanece dentro hasta que llegue la policía. Los rehenes disponibles se utilizan para negociar la salida; la escena no obliga a aceptar cualquier condición ni fija una duración máxima global de negociación.
+## 4. Clases, aforos y apoyo
 
-1. **Fleeca:** mínimo 4 policías; entre 2 y 3 personas robando; máximo 5 participantes en total; máximo 4 rehenes. El recepcionista cuenta como rehén solo si el grupo decide utilizarlo como tal.
-2. **Joyería:** mínimo 5 policías; entre 2 y 4 personas robando; máximo 6 participantes en total; máximo 4 rehenes reales. Dependientes y NPC no cuentan.
-3. **Ammu-Nation:** mismas cifras y procedimiento que joyería: mínimo 5 policías; entre 2 y 4 robando; máximo 6 en total; máximo 4 rehenes reales, sin contar dependientes o NPC.
+### 4.1 Una ficha por actividad
 
-### 4.5 Clase A: operaciones mayores
+Se aplican los límites concretos de la tabla de robos. El máximo dentro y el máximo total son límites simultáneos. Conductores, vigilantes, bloqueos y apoyos forman parte del total aunque no recojan botín.
 
-Para las actividades A se necesita aceptación previa por `/robos` y `/entorno` antes de empezar. Al completar el objetivo, el grupo espera la evolución de la escena policial. La negociación o la intervención se resuelven según el contexto.
+### 4.2 Clase E
 
-1. **Banco Paleto:** mínimo 6 policías; entre 2 y 4 personas robando; máximo 8 participantes totales; máximo 6 rehenes.
-2. **Banco de Sandy:** mismas cifras que Banco Paleto: mínimo 6 policías; entre 2 y 4 robando; máximo 8 participantes totales; máximo 6 rehenes.
-3. **Furgón blindado grande:** actividad clasificada como A, pero sus cifras y procedimiento están pendientes. No se puede iniciar hasta que su ficha los publique.
+Son actividades pequeñas. Favores: individuales y sin mínimo policial. Drogas, madera y ruedas: mínimo 1 policía y máximo 2 participantes. No se solicita autorización por /robos.
 
-### 4.6 Clases S y S+
+### 4.3 Clase D
 
-1. **Clase S:** tren de mercancías y Humane Labs.
-2. **Clase S+:** Diamond Casino y Banco Central.
+Las tiendas requieren 2 policías de servicio y un máximo de 2 participantes totales. Cajeros, parquímetros y tumbas requieren 1 policía y permiten hasta 2 participantes. Importación requiere 1 policía y permite hasta 3. Las casas quedan pendientes de su ficha por tipo.
 
-Estas actividades no están habilitadas hasta que se publique su ficha completa con mínimos policiales, aforos, rehenes, armas, avisos, procedimiento, límites y resolución. El avión de carga, Union Depository y los robos de farmacia quedan fuera de esta versión. El yate permanece sin clase ni disponibilidad definida.
+### 4.4 Clase C
 
-## 5. Cupos, registro y cómputo
+Desguace: 2 policías, hasta 2 robando y 3 participantes totales. Pawnshop: 3 policías, hasta 3 robando y 4 totales. Ambos admiten hasta 2 rehenes. Se permiten apoyos y bloqueos dentro del aforo; no tiroteos.
 
-### 5.1 Cupos máximos
+### 4.5 Clase B
 
-Los cupos son máximos por banda, compartidos por sus miembros, y no son objetivos que deban completarse.
+Fleeca: 4 policías, entre 2 y 3 robando y 5 totales. Joyería y Ammu-Nation: 5 policías, entre 2 y 4 robando y 6 totales. Hasta 4 rehenes con las condiciones específicas de cada establecimiento.
 
-1. **Clases E y D:** sin cupo general por banda; se respetan el aforo y cualquier límite propio de la actividad.
-2. **Clase C:** máximo 3 robos completados por banda al día, compartidos entre las actividades de clase C.
-3. **Banda N1:** máximo 3 robos B por semana, compartidos entre Fleeca, joyería y Ammu-Nation.
-4. **Banda N2:** conserva el cupo B y añade hasta 1 robo A por semana.
-5. **Banda N3:** conserva los cupos anteriores y añade hasta 1 robo S cada dos semanas y 1 robo S+ al mes.
+### 4.6 Clase A
 
-Los límites diarios se reinician a las 00:00, los semanales el lunes a las 00:00 y los mensuales el día 1 a las 00:00, hora peninsular.
+Paleto y Sandy: 6 policías, entre 2 y 4 robando, 8 participantes totales y hasta 6 rehenes. Blindado: 6 policías, hasta 4 en el asalto y 6 totales, sin rehenes ni negociación; su operativa completa sigue pendiente.
 
-### 5.2 Consumo del cupo
+### 4.7 Clase S y S+
 
-Una aceptación que no llega a iniciarse no consume cupo. Un robo C o superior consume cupo al completarse, aunque la huida termine con detención o sin recuperar el botín. Un fallo técnico validado por Administración se revisa como incidencia y no autoriza a duplicar recompensas.
+Tren S: 8 policías, entre 3 y 6 robando, 6 totales y sin rehenes. Humane Labs, yate, Casino y Banco Central no se consideran habilitados por aparecer como proyectos futuros.
 
-### 5.3 Registro obligatorio de clase C o superior
+### 4.8 Sin refuerzos ocultos
 
-Después de cada robo C o superior, cualquier persona que haya participado puede completar el registro en el canal oficial. Se recomienda hacerlo al cerrar la escena y no puede demorarse más de 12 horas.
+No se pueden superar los aforos con colaboradores sin declarar, camellos, otras bandas o cambios de participantes durante el mismo rol. La organización no puede fraccionarse para eludir un cupo común.
 
-El registro incluye: fecha en formato día/mes, hora aproximada de inicio y fin, nombre del robo, resultado (con éxito o sin éxito) y botín/recompensa. No registrar dentro del plazo puede conllevar una sanción conforme al procedimiento disciplinario general.
+## 5. Espera, salida y negociación
 
-## 6. Armas, vehículos y objetos
+### 5.1 Tiendas de clase D
 
-### 6.1 Armas permitidas por clase
+La espera mínima es de 5 minutos desde que termina el robo. Si no llega policía en ese tiempo, el grupo puede marcharse. Permanecer más tiempo es voluntario. Si la policía llega, se desarrolla la negociación y la salida conforme al rol; el cronómetro no autoriza a ignorarla.
 
-Se permiten armas blancas hasta clase D. No se pueden utilizar armas de fuego en actividades E, D ni C. Desde clase B pueden utilizarse armas de fuego solo cuando la ficha de la actividad y la progresión aprobada lo permitan.
+### 5.2 Tendero y rehenes en tiendas D
 
-La progresión puede habilitar a una PDB a obtener una pistola mediante un encargo y suministro IC antes de ascender a N1. Esto no le permite participar en robos B ni usar armas de fuego en clases en las que estén prohibidas. El nivel de organización por sí solo no concede armas.
+Hay un máximo total de 2 rehenes. El tendero por rol cuenta como uno solo si se utiliza para negociar. Se puede emplear al tendero y a una persona más, o a dos personas sin sumar al tendero. Nunca se negocia por un tercero.
 
-### 6.2 Armamento policial
+### 5.3 Actividades de huida directa
 
-Está prohibido robar, portar o utilizar armas reglamentarias policiales. No son botín ni se pueden fabricar o transferir para uso ilegal. Las consecuencias se aplican conforme a la normativa general de CK y sanciones, sin crear aquí un CK automático distinto.
+Cajeros, parquímetros y tumbas no admiten rehenes ni negociación planificada. Se puede huir al terminar. Si interviene la policía, se interpreta la detención o la huida según la escena y sin infringir las restricciones de la clase.
 
-## 7. Rehenes, extorsiones y personas abatidas
+### 5.4 Importación
 
-### 7.1 Secuestros
+No hay rehenes, negociación ni espera obligatoria. El aviso se activa al salir con el coche y el vehículo dispone de un localizador de 5 minutos. La entrega se realiza conforme a las condiciones del contrato.
 
-Un secuestro puede durar un máximo general de 30 minutos desde que la persona queda retenida. Puede prolongarse si la persona retenida acepta expresamente. La negociación policial no tiene un límite global que obligue a interrumpir una escena activa.
+### 5.5 Desguace y pawnshop
 
-Los rehenes y las personas retenidas deben recibir oportunidades razonables de actuar y comunicarse dentro de las limitaciones de la escena. No se puede forzar a retirar dinero del banco ni usar a familiares como moneda de cambio. Los límites específicos de rehenes de cada actividad prevalecen sobre cualquier regla general.
+Tras ser aceptados, se inicia la actividad y se espera a la policía. Si hay rehenes, se negocia; si no los hay, la policía puede intervenir y detener. No se permite terminar el saqueo y marcharse sin esperar.
 
-### 7.2 Objetos y rol de la retención
+### 5.6 Fleeca
 
-La retirada temporal de objetos debe representarse mediante rol y limitarse a lo que el contexto permita. Al cerrar la escena, se devuelven los objetos retirados, salvo que una norma o resolución administrativa indique lo contrario. No se inventan dispositivos de rastreo, grabación o localización sobre una persona sin una mecánica y autorización reconocidas por el servidor.
+El grupo permanece dentro hasta que llegue la policía. Puede utilizar al recepcionista de rol como 1 de los 4 rehenes máximos, si decide hacerlo. No se suma un quinto rehén por tratarse de un NPC de rol.
 
-### 7.3 Personas abatidas y cuerpos
+### 5.7 Joyería y Ammu-Nation
 
-Mover un cuerpo no permite ignorar heridas, recuperar capacidades ni volver a intervenir en la misma escena. Si una persona es trasladada al hospital dentro del rol, no puede regresar al lugar de los hechos. Cualquier ocultación o traslado debe interpretarse y resolverse con el rol completo, sin utilizarlo para volver invulnerable a la persona ni borrar pruebas ya observadas.
+Se espera dentro a la policía y se negocia si hay rehenes. El máximo es de 4 rehenes reales; no se añade un dependiente imaginario a la negociación.
 
-## 8. Vehículos durante escenas agresivas
+### 5.8 Paleto y Sandy
 
-### 8.1 Inicio de una escena
+El grupo espera la intervención policial. La escena puede derivar en una salida negociada o un enfrentamiento conforme a la negociación y al rol. La clase no obliga a disparar por sistema.
 
-No se inicia una escena agresiva desde un vehículo para obtener una ventaja de movilidad o protección.
+### 5.9 Tren y blindado
 
-### 8.2 Disparos desde vehículos
+El tren no admite rehenes ni negociación y permite iniciar la huida al terminar o abandonar antes. El blindado se plantea como enfrentamiento armado sin rehenes ni negociación; las condiciones todavía no cerradas deben concretarse antes de habilitarlo.
 
-Desde un vehículo solo se puede disparar a las ruedas. El conductor únicamente puede disparar cuando el vehículo esté completamente detenido. Esta regla se aplica sin perjuicio de las restricciones de armas por clase.
+## 6. Cupos y registro de robos
 
-### 8.3 VDM y uso antirrol
+### 6.1 Cupos comunes
 
-El VDM está prohibido. También está prohibido utilizar vehículos para sujetar, arrastrar, empujar o incapacitar a una persona fuera de una acción de rol razonable y permitida.
+E y D no tienen cupo normativo diario. C tiene un máximo de 3 robos al día por banda. B tiene un máximo de 3 por semana. A tiene un máximo de 1 por semana; S, 1 cada dos semanas; S+, 1 al mes. Solo se aplican las clases accesibles a la organización.
 
-### 8.4 Vehículos de alta gama
+### 6.2 Un cupo por clase
 
-Los superdeportivos solo pueden utilizarse en actividades de clase C o superiores. No se emplean en actividades E o D para obtener ventaja de velocidad, huida o intimidación.
+Los robos de una misma clase comparten cupo. Fleeca, joyería y Ammu-Nation no tienen tres contadores separados. Un cupo es un máximo permitido, no una obligación de completar actividades.
 
-## 9. Vestimenta, accesorios y ventajas
+### 6.3 Cuándo se consume
 
-### 9.1 Coherencia del personaje
+El cupo se consume al iniciar la ejecución del robo, tenga éxito o fracase. La aceptación por /robos sin iniciar no consume un robo. Huir sin botín o fallar la actividad no devuelve el intento.
 
-La vestimenta debe ser coherente con la identidad y el contexto del personaje. No se permiten prendas, accesorios o combinaciones que vuelvan invisible al personaje, reduzcan de forma injusta el daño o alteren hitboxes y colisiones.
+### 6.4 Reinicio de cupos
 
-### 9.2 Identidad de las organizaciones
+Se usa la hora peninsular española. El cupo diario reinicia a las 00:00; el semanal, en la transición del domingo al lunes a las 00:00; el mensual, el día 1 a las 00:00. El calendario quincenal de S se comunicará antes de su aplicación.
 
-Los distintivos reservados a una banda reconocida no se utilizan para hacerse pasar por ella. La apariencia no puede emplearse para obtener una ventaja táctica, confundir a la policía fuera de lo razonable o atribuir acciones a otra organización.
+### 6.5 Registro obligatorio
 
-### 9.3 Animaciones y modificaciones
+Todo robo de clase C o superior se registra, con éxito o sin éxito. Puede hacerlo cualquiera de sus participantes que disponga de los datos. Debe realizarse cuando termine el rol y sea posible hacerlo con tranquilidad; nunca se dejará pasar más de 12 horas.
 
-No se permiten animaciones, modificaciones, macros o programas externos para disparar, moverse, esquivar o resistir de forma ventajosa. Si existe duda sobre una prenda o modificación, Administración determina su uso antes de emplearla en una escena.
+### 6.6 Datos del registro
 
-## 10. Negocios, drogas y actividades públicas
+Fecha en formato DD/MM, hora aproximada de inicio y fin, tipo de robo, participantes, botín o recompensa y resultado con éxito o sin éxito. Omitir el registro puede dar lugar a sanción, incluido un strike según la valoración del caso.
 
-### 10.1 Negocios
+## 7. Armas y equipamiento
 
-Los negocios se rigen por la ficha de actividad correspondiente. No se inicia una acción agresiva contra un negocio fuera de las actividades publicadas. Cualquier extorsión o intento de controlar un establecimiento debe tener una base de rol y respetar las reglas generales de coacción y negociación.
+### 7.1 Restricción por clase
 
-### 10.2 Venta de drogas
+En E, D y C solo se permiten armas blancas. Las armas de fuego se permiten a partir de B. Tener un arma, un plano o un rango no elimina los límites de la actividad.
 
-La venta a NPC exige el mínimo policial de su ficha y el procedimiento de aviso y entorno de la sección 4.1. Está prohibido explotar la mecánica repitiendo ventas al mismo NPC, vender desde un vehículo, a animales o a personajes de previsualización de menús.
+### 7.2 Tiroteos
 
-### 10.3 Cultivo, producción y distribución
+Se permiten a partir de clase B, con motivación y desarrollo de rol. Las tiendas D y los robos C no pueden transformarse en tiroteos aprovechando la llegada de apoyo exterior.
 
-Solo se permite cultivar, procesar o distribuir drogas mediante actividades y lugares que estén aprobados y publicados. No se plantará en interiores ni en lugares prohibidos por la ficha vigente. Las restricciones de zonas y las consecuencias específicas se publicarán cuando se cierre ese sistema; no se aplicará una ubicación supuesta o no anunciada.
+### 7.3 Armas policiales
 
-### 10.4 Eventos civiles
+No se pueden robar armas policiales. Solo se permite recoger cargadores en mitad de un tiroteo. Si se obtiene armamento policial por error o durante un evento, debe comunicarse al staff para su retirada; no se convierte en una posesión autorizada.
 
-No se utilizan eventos, concentraciones o actividades civiles como cobertura para iniciar un conflicto o robar, salvo que el evento autorice expresamente esa posibilidad.
+### 7.4 Planos y fabricación
 
-## 11. Conflictos entre organizaciones
+Las armas de fuego del sistema requieren su plano y los componentes correspondientes. Obtener un arma terminada no equivale a aprender su fabricación. La obtención y enseñanza de planos se desarrolla dentro del rol.
 
-### 11.1 Motivo y escalada
+## 8. Vehículos y bloqueos
 
-Los conflictos deben tener motivo, desarrollo y consecuencias IC. Una guerra no requiere aprobación de Staff por el mero hecho de declararse, pero no elimina las reglas de aforo, armas, zonas seguras, reinicios ni juego limpio.
+### 8.1 Superdeportivos
 
-### 11.2 Consecuencias y CK
+Los superdeportivos se permiten a partir de clase C. No se utilizan para preparar o facilitar actividades E o D. En importación, el vehículo objetivo forma parte de la propia actividad y no habilita un vehículo de apoyo fuera de sus reglas.
 
-La derrota en una guerra no produce CK automático ni disband automático. El CK solo se aplica bajo los supuestos de la normativa general, incluida la regla específica de muerte en territorio enemigo durante una guerra declarada, si sigue vigente en la normativa general.
+### 8.2 Bloqueos
 
-### 11.3 Intervención de terceros
+Se permiten a partir de C, contando a todos los implicados dentro del aforo total. No se admiten apoyos para bloqueos o emboscadas en las actividades D.
 
-Una persona que no forma parte de una escena no puede incorporarse para ampliar el aforo, vengarse o cambiar el resultado sin una razón IC válida. Los camellos no participan en robos.
+### 8.3 VDM
 
-## 12. Administración y aplicación
+Está prohibido utilizar el vehículo como arma, atropellar deliberadamente para resolver el conflicto o provocar impactos sin sentido para obtener una ventaja.
 
-### 12.1 Interpretación
+### 8.4 Disparos desde vehículos
 
-Administración y las personas responsables de facción revisan los casos no cubiertos, teniendo en cuenta pruebas, contexto, precedentes y proporcionalidad. La revisión OOC no altera por sí sola el conocimiento IC de los personajes.
+Los ocupantes pueden disparar cuando el rol y la clase lo permitan. El conductor únicamente puede hacerlo con el vehículo totalmente detenido. No se permite disparar desde un vehículo en actividades cuya clase prohíba armas de fuego.
 
-### 12.2 Incidencias y pruebas
+## 9. Retenciones y trato a otros jugadores
 
-Los fallos técnicos, duplicaciones o desacuerdos se presentan por los canales oficiales una vez que la escena pueda cerrarse con seguridad. La grabación se conserva conforme al apartado 1.5.
+### 9.1 Duración
 
-### 12.3 Fichas complementarias
+Un secuestro tiene un máximo de 30 minutos desde que la persona queda retenida o amenazada, salvo acuerdo con ella para prolongarlo. No se reinicia el tiempo trasladando al rehén a otro lugar.
 
-Cada ficha concreta herramientas, botín, límites particulares, aviso, salida y requisitos de la actividad. Si una ficha contradice esta normativa, prevalece la normativa hasta que Administración publique la corrección.
+### 9.2 Negociación policial
 
-### 12.4 Entrada en vigor
+La evolución de un robo y su negociación policial no se corta automáticamente por un cronómetro general ajeno a la escena. No se utiliza esta excepción para alargar una retención de forma abusiva.
 
-Esta versión entra en vigor cuando SIEGA Community la publique como normativa oficial. Las cifras y procedimientos marcados como pendientes no habilitan actividades: requieren una ficha aprobada.
+### 9.3 Límites de interacción
 
----
+No se puede obligar a una persona a retirar dinero del banco ni atracarla aprovechando que está bloqueada en un menú de interacción.
 
+### 9.4 Rehenes
+
+Solo se negocia por personas o figuras de rol permitidas por la ficha. No se inventan rehenes adicionales ni se supera el máximo sumando al dependiente después de haber alcanzado el límite con jugadores.
+
+## 10. Drogas y actividades de calle
+
+### 10.1 Venta
+
+Se necesita al menos 1 policía de servicio. El aviso automático se genera al iniciar el intento de venta. Además, se envía un /entorno al comenzar la actividad, indicando personas y vehículo si existe; no se exige uno nuevo por cada venta.
+
+### 10.2 Explotación de ventas
+
+No se pueden utilizar animales, previsualizaciones del menú de animaciones ni entidades ajenas a la actividad como compradores. No se permite forzar ventas bajando a NPCs de sus vehículos o abusando de un mismo comprador.
+
+### 10.3 Cultivo
+
+El funcionamiento, los requisitos y las zonas autorizadas del cultivo se publicarán cuando el sistema esté definido. Una propuesta de desarrollo no constituye autorización para plantar en cualquier lugar.
+
+## 11. Conflictos y consecuencias
+
+### 11.1 Motivación
+
+Las disputas entre organizaciones deben surgir del rol y ser coherentes con su historia. Una pérdida económica o una diferencia OOC no justifica por sí sola una guerra.
+
+### 11.2 Guerra
+
+Una guerra se declara y desarrolla IC. No nace automáticamente al alcanzar tres tiroteos ni provoca por defecto el disband de la organización perdedora.
+
+### 11.3 CK
+
+No existe CK automático por perder un robo, portar por error un arma policial o abandonar una banda. El supuesto territorial se limita a una guerra declarada y a la muerte en territorio enemigo, sujeto a la revisión del contexto. El CK policial requiere su procedimiento correspondiente.
+
+### 11.4 Mediación
+
+Los desacuerdos sobre lo ocurrido se presentan por ticket con las pruebas. Ninguna parte impone por su cuenta una sanción OOC, un CK o un cambio administrativo de rango.
+
+## 12. Aplicación y consulta
+
+### 12.1 Referencias
+
+La tabla de robos concreta aforos, policías, rehenes y salida. Los apartados marcados como pendientes o futuros no habilitan una actividad hasta que se publique su definición.
+
+### 12.2 Sanciones
+
+Las infracciones se valoran por administración según su contexto y gravedad. La tabla completa de sanciones queda pendiente de cierre; no se convierten todas las incidencias en un CK o disband automático.
+
+### 12.3 Actualizaciones
+
+Consulta la versión vigente antes de organizar una actividad. Los cambios de economía y recetas se documentan aparte y no sustituyen las reglas de rol.
 

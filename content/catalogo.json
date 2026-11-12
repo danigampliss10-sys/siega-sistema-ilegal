@@ -1,0 +1,2024 @@
+{
+  "materiales": [
+    [
+      "il_madera",
+      "Tablones de madera",
+      "Común",
+      "Palés",
+      "Mangos y bate de madera",
+      70
+    ],
+    [
+      "metalscrap",
+      "Chatarra de metal",
+      "Común",
+      "Parquímetros, ruedas, tiendas y desguace",
+      "Procesado de acero, herramientas y piezas",
+      60
+    ],
+    [
+      "iron",
+      "Hierro",
+      "Común",
+      "Desguace",
+      "Cabezas de herramientas y hojas sencillas",
+      180
+    ],
+    [
+      "metal",
+      "Metal",
+      "Común",
+      "Desguace",
+      "Herramientas y refuerzos",
+      120
+    ],
+    [
+      "steel",
+      "Acero",
+      "Procesado",
+      "Procesado de chatarra y desguace",
+      "Herramientas resistentes y fabricación avanzada",
+      300
+    ],
+    [
+      "plastic",
+      "Plástico",
+      "Común",
+      "Parquímetros, tiendas y desguace",
+      "Carcasas y herramientas",
+      35
+    ],
+    [
+      "copper",
+      "Cobre",
+      "Común",
+      "Desguace y tren",
+      "Electrónica y munición",
+      75
+    ],
+    [
+      "rubber",
+      "Caucho",
+      "Común",
+      "Ruedas y desguace",
+      "Agarres y útiles",
+      40
+    ],
+    [
+      "glass",
+      "Vidrio",
+      "Común",
+      "Tumbas y licorerías",
+      "Reserva de catálogo; sin receta aprobada",
+      50
+    ],
+    [
+      "aluminum",
+      "Aluminio",
+      "Común",
+      "Desguace y tren",
+      "Placas y fabricación avanzada",
+      100
+    ],
+    [
+      "il_mango",
+      "Mango",
+      "Procesado",
+      "Mesa de madera",
+      "Agarre de cuchillos, hachas y herramientas",
+      180
+    ],
+    [
+      "il_pieza_coche",
+      "Pieza de coche",
+      "Oficio",
+      "Ruedas y desguace",
+      "Dispositivo de pinchos",
+      null
+    ],
+    [
+      "il_mecanismo",
+      "Mecanismo",
+      "Oficio",
+      "Cajas fuertes, desguace, bancos y tren",
+      "Ganzúa avanzada y electrónica",
+      250
+    ],
+    [
+      "il_alambre",
+      "Alambre rígido",
+      "Oficio",
+      "Fuente pendiente",
+      "Ganzúa avanzada; cerrar suministro antes de habilitar",
+      80
+    ],
+    [
+      "il_cinta",
+      "Cinta aislante",
+      "Oficio",
+      "Registradoras 24/7 y LTD",
+      "Agarres, placas y ganzúa avanzada",
+      50
+    ],
+    [
+      "il_circuito",
+      "Placa electrónica",
+      "Técnico",
+      "Cajeros, cajas fuertes y robos mayores",
+      "Dispositivos y fabricación",
+      350
+    ],
+    [
+      "il_aleacion",
+      "Aleación",
+      "Técnico",
+      "Tren",
+      "Fabricación especializada",
+      500
+    ],
+    [
+      "il_piezas_cortas",
+      "Piezas de arma corta",
+      "Técnico",
+      "Fleeca, Ammu-Nation y bancos A",
+      "Recetas de pistolas con plano",
+      null
+    ],
+    [
+      "il_piezas_compactas",
+      "Piezas de arma compacta",
+      "Técnico",
+      "Fuente pendiente",
+      "Micro SMG: receta reservada",
+      null
+    ],
+    [
+      "il_lote_municion",
+      "Lote de munición",
+      "Técnico",
+      "Fleeca y Ammu-Nation",
+      "Lote de 12 unidades de 9 mm",
+      null
+    ],
+    [
+      "il_mercancia",
+      "Mercancía variada",
+      "Botín",
+      "Tiendas",
+      "Mercancía de rol; salida comercial por definir",
+      null
+    ],
+    [
+      "il_prendas",
+      "Prendas",
+      "Botín",
+      "Tiendas de ropa",
+      "Mercancía textil",
+      null
+    ],
+    [
+      "il_tinta",
+      "Tinta",
+      "Botín",
+      "Tiendas de tatuajes",
+      "Suministro de oficio",
+      null
+    ],
+    [
+      "il_alcohol",
+      "Alcohol",
+      "Botín",
+      "Licorerías",
+      "Mercancía propia del comercio",
+      null
+    ],
+    [
+      "inherited_watch",
+      "Reloj heredado",
+      "Valioso",
+      "Tumbas y pawnshop",
+      "Objeto de valor; no es un ingrediente",
+      null
+    ],
+    [
+      "rolex",
+      "Reloj",
+      "Valioso",
+      "Tumbas y pawnshop",
+      "Objeto de valor",
+      null
+    ],
+    [
+      "goldchain",
+      "Cadena de oro",
+      "Valioso",
+      "Tumbas, pawnshop y joyería",
+      "Objeto de valor",
+      null
+    ],
+    [
+      "gold_ring",
+      "Anillo de oro",
+      "Valioso",
+      "Tumbas, pawnshop y joyería",
+      "Objeto de valor",
+      null
+    ],
+    [
+      "diamond_ring",
+      "Anillo de diamantes",
+      "Valioso",
+      "Pawnshop y joyería",
+      "Objeto de valor",
+      null
+    ],
+    [
+      "diamond",
+      "Diamante",
+      "Valioso",
+      "Tumbas, pawnshop y joyería",
+      "Gema; hallazgo excepcional en tumbas",
+      null
+    ],
+    [
+      "ruby",
+      "Rubí",
+      "Valioso",
+      "Pawnshop y joyería",
+      "Gema",
+      null
+    ],
+    [
+      "emerald",
+      "Esmeralda",
+      "Valioso",
+      "Pawnshop y joyería",
+      "Gema",
+      null
+    ],
+    [
+      "jewelry",
+      "Joyas",
+      "Valioso",
+      "Joyería",
+      "Botín del establecimiento",
+      null
+    ]
+  ],
+  "robos": [
+    [
+      "favores",
+      "Favores de NPC",
+      "E",
+      0,
+      "1",
+      "1",
+      "0",
+      "Al completar el encargo",
+      "/entorno opcional",
+      "Según el favor",
+      null,
+      [],
+      [],
+      "Encargos y recompensas a definir"
+    ],
+    [
+      "drogas",
+      "Venta de droga",
+      "E",
+      1,
+      "—",
+      "2",
+      "0",
+      "Sin espera policial",
+      "Automático al intentar vender + /entorno al comenzar, con personas y vehículo",
+      "Mercancía para la venta",
+      null,
+      [],
+      [],
+      "Precio y cantidades a cargo de dirección"
+    ],
+    [
+      "madera",
+      "Palés de madera",
+      "E",
+      1,
+      "—",
+      "2",
+      "0",
+      "Sin espera policial",
+      "Automático + /entorno al comenzar",
+      "Hacha de trabajo",
+      null,
+      [
+        [
+          "il_madera",
+          3
+        ]
+      ],
+      [
+        [
+          25,
+          [
+            [
+              "metalscrap",
+              1
+            ]
+          ]
+        ],
+        [
+          75,
+          []
+        ]
+      ],
+      "Dinero no previsto; materiales"
+    ],
+    [
+      "ruedas",
+      "Robo de ruedas",
+      "E",
+      1,
+      "—",
+      "2",
+      "0",
+      "Sin espera policial",
+      "/entorno antes de la primera rueda; sin aviso automático",
+      "Llave Torx",
+      null,
+      [],
+      [
+        [
+          70,
+          [
+            [
+              "rueda",
+              1
+            ]
+          ]
+        ],
+        [
+          25,
+          [
+            [
+              "rubber",
+              2
+            ],
+            [
+              "steel",
+              1
+            ]
+          ]
+        ],
+        [
+          5,
+          [
+            [
+              "il_pieza_coche",
+              1
+            ]
+          ]
+        ]
+      ],
+      "Una tirada por rueda; canje de rueda por 5 de chatarra"
+    ],
+    [
+      "parquimetros",
+      "Parquímetros",
+      "D",
+      1,
+      "—",
+      "2",
+      "0",
+      "Al terminar",
+      "Automático; /entorno manual no obligatorio",
+      "Arma blanca válida para golpear el parquímetro",
+      [
+        400,
+        700
+      ],
+      [
+        [
+          "metalscrap",
+          2
+        ],
+        [
+          "plastic",
+          1
+        ]
+      ],
+      [],
+      "Botín por parquímetro"
+    ],
+    [
+      "cajeros",
+      "Cajeros ATM",
+      "D",
+      1,
+      "—",
+      "2",
+      "0",
+      "Al terminar",
+      "Automático; /entorno manual no obligatorio",
+      "Herramienta pendiente de concretar",
+      [
+        1500,
+        2500
+      ],
+      [],
+      [
+        [
+          20,
+          [
+            [
+              "il_circuito",
+              1
+            ]
+          ]
+        ],
+        [
+          80,
+          []
+        ]
+      ],
+      "Herramienta pendiente"
+    ],
+    [
+      "tumbas",
+      "Tumbas",
+      "D",
+      1,
+      "—",
+      "2",
+      "0",
+      "Al terminar",
+      "Automático; /entorno manual no obligatorio",
+      "Pala",
+      [
+        500,
+        900
+      ],
+      [],
+      [
+        [
+          35,
+          [
+            [
+              "rolex",
+              1
+            ]
+          ]
+        ],
+        [
+          25,
+          [
+            [
+              "goldchain",
+              1
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "metalscrap",
+              2
+            ],
+            [
+              "glass",
+              1
+            ]
+          ]
+        ],
+        [
+          15,
+          [
+            [
+              "inherited_watch",
+              1
+            ]
+          ]
+        ],
+        [
+          4,
+          [
+            [
+              "gold_ring",
+              1
+            ]
+          ]
+        ],
+        [
+          1,
+          [
+            [
+              "diamond",
+              1
+            ]
+          ]
+        ]
+      ],
+      "Una tirada por tumba"
+    ],
+    [
+      "247",
+      "24/7 y LTD",
+      "D",
+      2,
+      "1–2",
+      "2",
+      "2, incluido el tendero si se utiliza",
+      "5 min desde terminar; si llega policía, negociar",
+      "Automático + /entorno con personas y vehículo",
+      "Arma blanca para registradora; ganzúa para caja fuerte opcional",
+      [
+        800,
+        900
+      ],
+      [
+        [
+          "il_mercancia",
+          1
+        ]
+      ],
+      [
+        [
+          40,
+          [
+            [
+              "il_cinta",
+              1
+            ]
+          ]
+        ],
+        [
+          30,
+          [
+            [
+              "plastic",
+              2
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "metalscrap",
+              1
+            ]
+          ]
+        ],
+        [
+          10,
+          []
+        ]
+      ],
+      "Caja fuerte: +500–800; máximo conjunto 1.700"
+    ],
+    [
+      "licoreria",
+      "Licorerías",
+      "D",
+      2,
+      "1–2",
+      "2",
+      "2, incluido el tendero si se utiliza",
+      "5 min desde terminar; si llega policía, negociar",
+      "Automático + /entorno con personas y vehículo",
+      "Arma blanca",
+      [
+        600,
+        800
+      ],
+      [],
+      [
+        [
+          60,
+          [
+            [
+              "il_alcohol",
+              2
+            ]
+          ]
+        ],
+        [
+          25,
+          [
+            [
+              "il_alcohol",
+              3
+            ]
+          ]
+        ],
+        [
+          15,
+          [
+            [
+              "il_alcohol",
+              1
+            ]
+          ]
+        ]
+      ],
+      "Además, 20% independiente de vidrio ×1"
+    ],
+    [
+      "peluqueria",
+      "Peluquerías",
+      "D",
+      2,
+      "1–2",
+      "2",
+      "2, incluido el tendero si se utiliza",
+      "5 min desde terminar; si llega policía, negociar",
+      "Automático + /entorno con personas y vehículo",
+      "Arma blanca",
+      [
+        600,
+        800
+      ],
+      [],
+      [
+        [
+          30,
+          [
+            [
+              "il_mercancia",
+              1
+            ]
+          ]
+        ],
+        [
+          70,
+          []
+        ]
+      ],
+      "Base de equilibrio"
+    ],
+    [
+      "tatuajes",
+      "Tiendas de tatuajes",
+      "D",
+      2,
+      "1–2",
+      "2",
+      "2, incluido el tendero si se utiliza",
+      "5 min desde terminar; si llega policía, negociar",
+      "Automático + /entorno con personas y vehículo",
+      "Arma blanca",
+      [
+        600,
+        800
+      ],
+      [],
+      [
+        [
+          50,
+          [
+            [
+              "il_tinta",
+              1
+            ]
+          ]
+        ],
+        [
+          30,
+          [
+            [
+              "il_tinta",
+              2
+            ]
+          ]
+        ],
+        [
+          20,
+          []
+        ]
+      ],
+      "Base de equilibrio"
+    ],
+    [
+      "libreria",
+      "Librerías",
+      "D",
+      2,
+      "1–2",
+      "2",
+      "2, incluido el tendero si se utiliza",
+      "5 min desde terminar; si llega policía, negociar",
+      "Automático + /entorno con personas y vehículo",
+      "Arma blanca",
+      [
+        600,
+        800
+      ],
+      [],
+      [
+        [
+          60,
+          [
+            [
+              "il_mercancia",
+              1
+            ]
+          ]
+        ],
+        [
+          25,
+          [
+            [
+              "il_mercancia",
+              2
+            ]
+          ]
+        ],
+        [
+          15,
+          []
+        ]
+      ],
+      "Base de equilibrio"
+    ],
+    [
+      "ropa",
+      "Tiendas de ropa",
+      "D",
+      2,
+      "1–2",
+      "2",
+      "2, incluido el tendero si se utiliza",
+      "5 min desde terminar; si llega policía, negociar",
+      "Automático + /entorno con personas y vehículo",
+      "Arma blanca",
+      [
+        600,
+        800
+      ],
+      [],
+      [
+        [
+          60,
+          [
+            [
+              "il_prendas",
+              1
+            ]
+          ]
+        ],
+        [
+          30,
+          [
+            [
+              "il_prendas",
+              2
+            ]
+          ]
+        ],
+        [
+          10,
+          []
+        ]
+      ],
+      "Base de equilibrio"
+    ],
+    [
+      "importacion",
+      "Importación",
+      "D",
+      1,
+      "—",
+      "3",
+      "0",
+      "Huida y entrega; no esperar a policía",
+      "Automático al salir con el coche; sin /entorno obligatorio",
+      "Contrato de importación",
+      null,
+      [],
+      [],
+      "Localizador de 5 min; recompensa pendiente"
+    ],
+    [
+      "desguace",
+      "Desguace",
+      "C",
+      2,
+      "1–2",
+      "3",
+      "2",
+      "Esperar a policía; negociar si hay rehenes",
+      "Aceptación por /robos + /entorno",
+      "Palanca de trabajo",
+      [
+        12000,
+        18000
+      ],
+      [],
+      [
+        [
+          30,
+          [
+            [
+              "metalscrap",
+              6
+            ],
+            [
+              "steel",
+              2
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "copper",
+              3
+            ],
+            [
+              "plastic",
+              2
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "rubber",
+              3
+            ],
+            [
+              "il_pieza_coche",
+              1
+            ]
+          ]
+        ],
+        [
+          15,
+          [
+            [
+              "steel",
+              3
+            ],
+            [
+              "aluminum",
+              2
+            ]
+          ]
+        ],
+        [
+          10,
+          [
+            [
+              "iron",
+              4
+            ],
+            [
+              "metal",
+              2
+            ]
+          ]
+        ],
+        [
+          5,
+          [
+            [
+              "il_mecanismo",
+              1
+            ],
+            [
+              "il_circuito",
+              1
+            ]
+          ]
+        ]
+      ],
+      "Robo de objetos del recinto; no desguace de vehículos"
+    ],
+    [
+      "pawnshop",
+      "Pawnshop",
+      "C",
+      3,
+      "1–3",
+      "4",
+      "2",
+      "Esperar a policía; negociar si hay rehenes",
+      "Aceptación por /robos + /entorno",
+      "Ganzúa avanzada",
+      [
+        14000,
+        20000
+      ],
+      [],
+      [
+        [
+          25,
+          [
+            [
+              "goldchain",
+              2
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "rolex",
+              2
+            ]
+          ]
+        ],
+        [
+          15,
+          [
+            [
+              "gold_ring",
+              1
+            ]
+          ]
+        ],
+        [
+          10,
+          [
+            [
+              "inherited_watch",
+              1
+            ]
+          ]
+        ],
+        [
+          10,
+          [
+            [
+              "diamond_ring",
+              1
+            ]
+          ]
+        ],
+        [
+          5,
+          [
+            [
+              "diamond",
+              1
+            ]
+          ]
+        ],
+        [
+          5,
+          [
+            [
+              "ruby",
+              1
+            ]
+          ]
+        ],
+        [
+          5,
+          [
+            [
+              "emerald",
+              1
+            ]
+          ]
+        ],
+        [
+          5,
+          []
+        ]
+      ],
+      "Apoyo exterior incluido en el total"
+    ],
+    [
+      "fleeca",
+      "Fleeca",
+      "B",
+      4,
+      "2–3",
+      "5",
+      "4; recepcionista opcional incluido",
+      "Esperar dentro a policía",
+      "Aceptación por /robos + /entorno",
+      "USB troyano por intento; taladro sujeto a ficha final",
+      [
+        32000,
+        45000
+      ],
+      [],
+      [
+        [
+          35,
+          [
+            [
+              "il_circuito",
+              2
+            ]
+          ]
+        ],
+        [
+          30,
+          [
+            [
+              "il_lote_municion",
+              1
+            ]
+          ]
+        ],
+        [
+          25,
+          [
+            [
+              "il_piezas_cortas",
+              1
+            ]
+          ]
+        ],
+        [
+          10,
+          [
+            [
+              "il_mecanismo",
+              2
+            ]
+          ]
+        ]
+      ],
+      "Negociación con los rehenes disponibles"
+    ],
+    [
+      "joyeria",
+      "Joyería",
+      "B",
+      5,
+      "2–4",
+      "6",
+      "4 reales; sin dependiente imaginario",
+      "Esperar dentro; negociar si hay rehenes",
+      "Aceptación por /robos + /entorno",
+      "Herramienta de corte: objeto pendiente",
+      [
+        28000,
+        42000
+      ],
+      [],
+      [
+        [
+          30,
+          [
+            [
+              "jewelry",
+              2
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "goldchain",
+              2
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "diamond_ring",
+              1
+            ]
+          ]
+        ],
+        [
+          10,
+          [
+            [
+              "gold_ring",
+              1
+            ]
+          ]
+        ],
+        [
+          8,
+          [
+            [
+              "emerald",
+              1
+            ]
+          ]
+        ],
+        [
+          6,
+          [
+            [
+              "ruby",
+              1
+            ]
+          ]
+        ],
+        [
+          4,
+          [
+            [
+              "diamond",
+              1
+            ]
+          ]
+        ],
+        [
+          2,
+          []
+        ]
+      ],
+      "Catálogo de joyas diversificado"
+    ],
+    [
+      "ammunation",
+      "Ammu-Nation",
+      "B",
+      5,
+      "2–4",
+      "6",
+      "4 reales; sin dependiente imaginario",
+      "Esperar dentro; negociar si hay rehenes",
+      "Aceptación por /robos + /entorno",
+      "Ganzúa avanzada; kit solo si se confirma en ficha",
+      [
+        25000,
+        38000
+      ],
+      [],
+      [
+        [
+          35,
+          [
+            [
+              "il_lote_municion",
+              2
+            ]
+          ]
+        ],
+        [
+          25,
+          [
+            [
+              "steel",
+              2
+            ],
+            [
+              "copper",
+              1
+            ]
+          ]
+        ],
+        [
+          25,
+          [
+            [
+              "il_piezas_cortas",
+              1
+            ]
+          ]
+        ],
+        [
+          15,
+          []
+        ]
+      ],
+      "No entrega armas terminadas"
+    ],
+    [
+      "paleto",
+      "Banco Paleto",
+      "A",
+      6,
+      "2–4",
+      "8",
+      "6",
+      "Esperar a policía y desarrollar la intervención",
+      "Aceptación por /robos + /entorno",
+      "Dispositivos de acceso por concretar",
+      [
+        60000,
+        75000
+      ],
+      [],
+      [
+        [
+          45,
+          [
+            [
+              "il_circuito",
+              2
+            ]
+          ]
+        ],
+        [
+          25,
+          [
+            [
+              "il_piezas_cortas",
+              1
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "il_mecanismo",
+              2
+            ]
+          ]
+        ],
+        [
+          10,
+          []
+        ]
+      ],
+      "Mínimo de 60.000 confirmado"
+    ],
+    [
+      "sandy",
+      "Banco de Sandy",
+      "A",
+      6,
+      "2–4",
+      "8",
+      "6",
+      "Esperar a policía y desarrollar la intervención",
+      "Aceptación por /robos + /entorno",
+      "Dispositivos de acceso por concretar",
+      [
+        60000,
+        75000
+      ],
+      [],
+      [
+        [
+          45,
+          [
+            [
+              "il_circuito",
+              2
+            ]
+          ]
+        ],
+        [
+          25,
+          [
+            [
+              "il_piezas_cortas",
+              1
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "il_mecanismo",
+              2
+            ]
+          ]
+        ],
+        [
+          10,
+          []
+        ]
+      ],
+      "Mismo marco que Paleto; botín equivalente propuesto"
+    ],
+    [
+      "blindado",
+      "Furgón blindado",
+      "A",
+      6,
+      "Hasta 4 en el asalto",
+      "6",
+      "0",
+      "Enfrentamiento armado; cierre operativo pendiente",
+      "Solicitud y avisos: protocolo final pendiente",
+      "Equipo de interceptación pendiente",
+      [
+        60000,
+        70000
+      ],
+      [
+        [
+          "metalscrap",
+          4
+        ],
+        [
+          "steel",
+          2
+        ]
+      ],
+      [
+        [
+          40,
+          [
+            [
+              "il_mecanismo",
+              1
+            ]
+          ]
+        ],
+        [
+          30,
+          [
+            [
+              "il_circuito",
+              1
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "copper",
+              3
+            ]
+          ]
+        ],
+        [
+          10,
+          []
+        ]
+      ],
+      "Sin negociación; mínimo de asaltantes pendiente"
+    ],
+    [
+      "tren",
+      "Tren de mercancías",
+      "S",
+      8,
+      "3–6",
+      "6",
+      "0",
+      "Pueden huir al terminar o abandonar antes",
+      "Aceptación por /robos + /entorno + automático al comenzar",
+      "Equipo de acceso pendiente",
+      [
+        80000,
+        95000
+      ],
+      [
+        [
+          "steel",
+          8
+        ],
+        [
+          "aluminum",
+          6
+        ],
+        [
+          "copper",
+          6
+        ]
+      ],
+      [
+        [
+          40,
+          [
+            [
+              "il_circuito",
+              2
+            ]
+          ]
+        ],
+        [
+          30,
+          [
+            [
+              "il_mecanismo",
+              2
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              "il_aleacion",
+              1
+            ]
+          ]
+        ],
+        [
+          10,
+          []
+        ]
+      ],
+      "Sin negociación; materiales para fabricación, no reventa extra"
+    ]
+  ],
+  "mesas": [
+    [
+      "T01",
+      "Carpintería",
+      "Mangos de madera",
+      "base",
+      "Transformar tablones en un agarre útil; la madera no se convierte en metal."
+    ],
+    [
+      "T02",
+      "Preparación de metales",
+      "Acero de trabajo",
+      "base",
+      "Dar una salida concreta a la chatarra obtenida en actividades pequeñas."
+    ],
+    [
+      "T03",
+      "Cerrajería",
+      "Ganzúas y acceso",
+      "base",
+      "Separar las herramientas de acceso de las armas y la electrónica."
+    ],
+    [
+      "T04",
+      "Útiles de trabajo",
+      "Recogida y mantenimiento",
+      "base",
+      "Fabricar el equipo básico para conseguir materiales."
+    ],
+    [
+      "T05",
+      "Armas blancas · filo",
+      "Cuchillos y machete",
+      "base",
+      "Hojas, mecanismos y mangos acordes a cada objeto."
+    ],
+    [
+      "T06",
+      "Armas blancas · impacto",
+      "Bate, martillo y útiles",
+      "base",
+      "El bate de madera usa madera y cinta; no necesita hierro."
+    ],
+    [
+      "T07",
+      "Hachas",
+      "Herramientas de corte pesado",
+      "base",
+      "Diferenciar el hacha de trabajo del arma; receta de piedra en revisión."
+    ],
+    [
+      "T08",
+      "Electrónica",
+      "Dispositivos y reparación",
+      "base",
+      "Circuitos y cobre tienen un destino concreto. El equipo de casas queda aparcado."
+    ],
+    [
+      "T09",
+      "Logística",
+      "Spray, pinchos y placas",
+      "base",
+      "Preparación para actividades permitidas; fabricar no amplía permisos de uso."
+    ],
+    [
+      "T10",
+      "Armas cortas",
+      "SNS y pistola",
+      "controlada",
+      "Requiere plano específico y componentes. Sin armas policiales."
+    ],
+    [
+      "T11",
+      "Armas compactas",
+      "Micro SMG",
+      "reservada",
+      "Mesa futura. No se habilita hasta cerrar el origen de sus piezas."
+    ],
+    [
+      "T12",
+      "Munición",
+      "Lotes de 9 mm",
+      "controlada",
+      "Fabricación en cantidades pequeñas con plano y lote de munición."
+    ]
+  ],
+  "recetas": [
+    {
+      "name": "Mango",
+      "table": "T01",
+      "parts": {
+        "il_madera": 2,
+        "rubber": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": "il_mango"
+    },
+    {
+      "name": "Acero de trabajo",
+      "table": "T02",
+      "parts": {
+        "metalscrap": 5
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": "steel"
+    },
+    {
+      "name": "Ganzúa",
+      "table": "T03",
+      "parts": {
+        "metalscrap": 3,
+        "steel": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": "lockpick"
+    },
+    {
+      "name": "Ganzúa avanzada",
+      "table": "T03",
+      "parts": {
+        "steel": 2,
+        "metal": 2,
+        "il_alambre": 1,
+        "il_mecanismo": 1,
+        "il_cinta": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Pendiente de suministro de alambre",
+      "output": "advancedlockpick"
+    },
+    {
+      "name": "Llave Torx",
+      "table": "T03",
+      "parts": {
+        "metalscrap": 2,
+        "steel": 2,
+        "il_mecanismo": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Destornillador",
+      "table": "T03",
+      "parts": {
+        "steel": 2,
+        "plastic": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Palanca de trabajo",
+      "table": "T03",
+      "parts": {
+        "steel": 3,
+        "metalscrap": 2,
+        "rubber": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Objeto de trabajo distinto del arma palanca",
+      "output": "il_palanca"
+    },
+    {
+      "name": "Cizalla",
+      "table": "T03",
+      "parts": {
+        "steel": 4,
+        "il_mecanismo": 1,
+        "rubber": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Hacha de trabajo",
+      "table": "T04",
+      "parts": {
+        "iron": 2,
+        "metal": 1,
+        "il_mango": 1,
+        "rubber": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Pala",
+      "table": "T04",
+      "parts": {
+        "steel": 2,
+        "il_madera": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Kit de herramientas",
+      "table": "T04",
+      "parts": {
+        "metalscrap": 6,
+        "steel": 3,
+        "rubber": 2
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Cuchillo",
+      "table": "T05",
+      "parts": {
+        "iron": 2,
+        "il_mango": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Navaja automática",
+      "table": "T05",
+      "parts": {
+        "metalscrap": 4,
+        "steel": 3,
+        "il_mecanismo": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Daga",
+      "table": "T05",
+      "parts": {
+        "steel": 3,
+        "metal": 1,
+        "il_mango": 1,
+        "rubber": 1,
+        "il_aleacion": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Machete",
+      "table": "T05",
+      "parts": {
+        "steel": 3,
+        "metal": 1,
+        "il_mango": 1,
+        "rubber": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Bate de madera",
+      "table": "T06",
+      "parts": {
+        "il_madera": 3,
+        "il_cinta": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Martillo",
+      "table": "T06",
+      "parts": {
+        "iron": 1,
+        "metal": 1,
+        "il_mango": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Palanca · arma",
+      "table": "T06",
+      "parts": {
+        "metal": 3,
+        "iron": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Llave inglesa",
+      "table": "T06",
+      "parts": {
+        "iron": 2,
+        "metal": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Puño americano",
+      "table": "T06",
+      "parts": {
+        "metal": 2,
+        "steel": 1,
+        "rubber": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Hacha",
+      "table": "T07",
+      "parts": {
+        "iron": 2,
+        "metal": 1,
+        "il_mango": 1,
+        "rubber": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Hacha de combate",
+      "table": "T07",
+      "parts": {
+        "steel": 5,
+        "metal": 2,
+        "il_mango": 1,
+        "rubber": 2,
+        "il_aleacion": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Hacha de piedra",
+      "table": "T07",
+      "parts": {},
+      "plan": true,
+      "quantity": 1,
+      "note": "Reservada: cerrar receta y material pétreo coherente",
+      "output": null
+    },
+    {
+      "name": "Portátil de acceso",
+      "table": "T08",
+      "parts": {
+        "plastic": 8,
+        "il_circuito": 3,
+        "copper": 6,
+        "il_mecanismo": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Casas aparcadas; reparar tras 3 usos satisfactorios",
+      "output": null
+    },
+    {
+      "name": "Reparar portátil",
+      "table": "T08",
+      "parts": {
+        "il_circuito": 1,
+        "copper": 3,
+        "plastic": 2
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Reparación del objeto existente; no crea otro portátil",
+      "output": null
+    },
+    {
+      "name": "USB troyano",
+      "table": "T08",
+      "parts": {
+        "plastic": 2,
+        "il_circuito": 2,
+        "copper": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Consumible por intento",
+      "output": null
+    },
+    {
+      "name": "Decodificador",
+      "table": "T08",
+      "parts": {
+        "plastic": 2,
+        "il_circuito": 2,
+        "copper": 3,
+        "il_mecanismo": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Bote de spray",
+      "table": "T09",
+      "parts": {
+        "plastic": 3,
+        "metalscrap": 2
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Dispositivo de pinchos",
+      "table": "T09",
+      "parts": {
+        "steel": 2,
+        "rubber": 2,
+        "il_pieza_coche": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Reparar pinchos",
+      "table": "T09",
+      "parts": {
+        "steel": 1,
+        "rubber": 1
+      },
+      "plan": false,
+      "quantity": 1,
+      "note": "Reparación; no genera un segundo dispositivo",
+      "output": null
+    },
+    {
+      "name": "Placa de rol",
+      "table": "T09",
+      "parts": {
+        "aluminum": 4,
+        "plastic": 2,
+        "il_cinta": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Matrícula ficticia del juego; uso sujeto a la actividad",
+      "output": null
+    },
+    {
+      "name": "Pistola SNS",
+      "table": "T10",
+      "parts": {
+        "il_piezas_cortas": 2,
+        "steel": 10,
+        "metalscrap": 8,
+        "il_circuito": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Pistola",
+      "table": "T10",
+      "parts": {
+        "il_piezas_cortas": 3,
+        "steel": 16,
+        "copper": 8,
+        "il_circuito": 2
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Propuesta",
+      "output": null
+    },
+    {
+      "name": "Micro SMG",
+      "table": "T11",
+      "parts": {
+        "il_piezas_compactas": 4,
+        "steel": 24,
+        "aluminum": 12,
+        "il_circuito": 3,
+        "il_aleacion": 1
+      },
+      "plan": true,
+      "quantity": 1,
+      "note": "Reservada: origen de piezas compactas pendiente",
+      "output": null
+    },
+    {
+      "name": "Munición 9 mm",
+      "table": "T12",
+      "parts": {
+        "il_lote_municion": 1,
+        "copper": 4,
+        "steel": 1
+      },
+      "plan": true,
+      "quantity": 12,
+      "note": "Lote de 12 unidades; validar identificador en inventario",
+      "output": null
+    }
+  ],
+  "npcs": [
+    [
+      "Cuchillo",
+      1500
+    ],
+    [
+      "Bate de madera",
+      2000
+    ],
+    [
+      "Navaja automática",
+      3200
+    ],
+    [
+      "Daga",
+      4200
+    ],
+    [
+      "Machete",
+      4500
+    ],
+    [
+      "Hacha",
+      3500
+    ],
+    [
+      "Hacha de piedra",
+      3000
+    ],
+    [
+      "Hacha de combate",
+      6500
+    ],
+    [
+      "Martillo",
+      1300
+    ],
+    [
+      "Palanca · arma",
+      2500
+    ],
+    [
+      "Llave inglesa",
+      2200
+    ],
+    [
+      "Puño americano",
+      3200
+    ],
+    [
+      "Palo de golf",
+      1000
+    ],
+    [
+      "Taco de billar",
+      800
+    ],
+    [
+      "Botella",
+      150
+    ]
+  ]
+}
